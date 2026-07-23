@@ -1,0 +1,6 @@
+bateria
+computadora
+pantalla
+cargador
+puerta
+luz
